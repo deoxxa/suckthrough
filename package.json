@@ -1,6 +1,6 @@
 {
   "name": "suckthrough",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A duplex stream that writes its data to a suckit server",
   "main": "index.js",
   "scripts": {
